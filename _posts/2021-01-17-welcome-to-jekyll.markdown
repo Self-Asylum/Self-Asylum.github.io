@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Welcome to Self-Asylum!"
 date:   2021-01-17 11:02:10 -0500
 categories: a tool everyday
 ---
